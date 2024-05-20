@@ -1,0 +1,38 @@
+.orders {
+
+  /*.order-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+  }*/
+
+  .order-tools {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+  }
+}
+
+.order-create {
+  .box-profile {
+    .level {
+      font-size: 32px;
+    }
+  }
+}
+
+.order-edit {
+  .box-profile {
+    .level {
+      font-size: 32px;
+    }
+  }
+}
+
+.order-form {
+  .bootstrap-datetimepicker-widget .picker-switch a {
+    color: white;
+  }
+
+}
