@@ -5,3 +5,8 @@
 3. To implement the platform, Admin LTE template based on Bootstrap was used<br>
 4. The CRUD functions (create, read, update, delete) are based on data management in the application<br>
 5. Mongodb was used to manage the database<br>
+
+<hr>
+
+run backend → `npm start`<br>
+run app → `ng serve --o`
